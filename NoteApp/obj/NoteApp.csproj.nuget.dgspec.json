@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rishabh/Desktop/GitHub/SIT313-Project1/NoteApp/NoteApp.csproj": {}
+  },
+  "projects": {
+    "/Users/rishabh/Desktop/GitHub/SIT313-Project1/NoteApp/NoteApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rishabh/Desktop/GitHub/SIT313-Project1/NoteApp/NoteApp.csproj",
+        "projectName": "NoteApp",
+        "projectPath": "/Users/rishabh/Desktop/GitHub/SIT313-Project1/NoteApp/NoteApp.csproj",
+        "packagesPath": "/Users/rishabh/.nuget/packages/",
+        "outputPath": "/Users/rishabh/Desktop/GitHub/SIT313-Project1/NoteApp/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/rishabh/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

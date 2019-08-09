@@ -1,8 +1,3 @@
-/Users/rishabh/Desktop/GitHub/SIT313-Project1/NoteApp/NoteApp/bin/Debug/netstandard2.0/NoteApp.deps.json
-/Users/rishabh/Desktop/GitHub/SIT313-Project1/NoteApp/NoteApp/bin/Debug/netstandard2.0/NoteApp.dll
-/Users/rishabh/Desktop/GitHub/SIT313-Project1/NoteApp/NoteApp/bin/Debug/netstandard2.0/NoteApp.pdb
-/Users/rishabh/Desktop/GitHub/SIT313-Project1/NoteApp/NoteApp/bin/Debug/netstandard2.0/Mono.Android.dll
-/Users/rishabh/Desktop/GitHub/SIT313-Project1/NoteApp/NoteApp/bin/Debug/netstandard2.0/Mono.Android.pdb
 /Users/rishabh/Desktop/GitHub/SIT313-Project1/NoteApp/NoteApp/obj/Debug/netstandard2.0/App.xaml.g.cs
 /Users/rishabh/Desktop/GitHub/SIT313-Project1/NoteApp/NoteApp/obj/Debug/netstandard2.0/EditNote.xaml.g.cs
 /Users/rishabh/Desktop/GitHub/SIT313-Project1/NoteApp/NoteApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
@@ -10,7 +5,10 @@
 /Users/rishabh/Desktop/GitHub/SIT313-Project1/NoteApp/NoteApp/obj/Debug/netstandard2.0/NoteApp.csproj.CoreCompileInputs.cache
 /Users/rishabh/Desktop/GitHub/SIT313-Project1/NoteApp/NoteApp/obj/Debug/netstandard2.0/NoteApp.AssemblyInfoInputs.cache
 /Users/rishabh/Desktop/GitHub/SIT313-Project1/NoteApp/NoteApp/obj/Debug/netstandard2.0/NoteApp.AssemblyInfo.cs
+/Users/rishabh/Desktop/GitHub/SIT313-Project1/NoteApp/NoteApp/bin/Debug/netstandard2.0/NoteApp.deps.json
+/Users/rishabh/Desktop/GitHub/SIT313-Project1/NoteApp/NoteApp/bin/Debug/netstandard2.0/NoteApp.dll
+/Users/rishabh/Desktop/GitHub/SIT313-Project1/NoteApp/NoteApp/bin/Debug/netstandard2.0/NoteApp.pdb
+/Users/rishabh/Desktop/GitHub/SIT313-Project1/NoteApp/NoteApp/obj/Debug/netstandard2.0/NoteApp.csprojAssemblyReference.cache
 /Users/rishabh/Desktop/GitHub/SIT313-Project1/NoteApp/NoteApp/obj/Debug/netstandard2.0/XamlC.stamp
-/Users/rishabh/Desktop/GitHub/SIT313-Project1/NoteApp/NoteApp/obj/Debug/netstandard2.0/NoteApp.csproj.CopyComplete
 /Users/rishabh/Desktop/GitHub/SIT313-Project1/NoteApp/NoteApp/obj/Debug/netstandard2.0/NoteApp.dll
 /Users/rishabh/Desktop/GitHub/SIT313-Project1/NoteApp/NoteApp/obj/Debug/netstandard2.0/NoteApp.pdb

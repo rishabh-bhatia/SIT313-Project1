@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using Java.Lang;
+//using Java.Lang;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 

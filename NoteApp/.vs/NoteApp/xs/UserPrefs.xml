@@ -1,15 +1,16 @@
 ﻿<Properties StartupConfiguration="{2D9D7CE1-AFB1-4812-B69B-53C7AF987BF2}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="NoteApp/ShowNotes.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NoteApp/MainPage.xaml.cs">
     <Files>
-      <File FileName="NoteApp/MainPage.xaml.cs" Line="35" Column="28" />
-      <File FileName="NoteApp/MainPage.xaml" />
-      <File FileName="NoteApp/EditNote.xaml" />
-      <File FileName="NoteApp/EditNote.xaml.cs" />
-      <File FileName="NoteApp/NoteInfo.cs" />
-      <File FileName="NoteApp/ShowNotes.xaml" />
-      <File FileName="NoteApp/ShowNotes.xaml.cs" Line="57" Column="33" />
-      <File FileName="NoteApp.Android/MainActivity.cs" />
+      <File FileName="NoteApp/MainPage.xaml.cs" Line="35" Column="62" />
+      <File FileName="NoteApp/MainPage.xaml" Line="11" Column="83" />
+      <File FileName="NoteApp/EditNote.xaml" Line="11" Column="72" />
+      <File FileName="NoteApp/EditNote.xaml.cs" Line="4" Column="3" />
+      <File FileName="NoteApp/NoteInfo.cs" Line="8" Column="61" />
+      <File FileName="NoteApp/ShowNotes.xaml" Line="10" Column="37" />
+      <File FileName="NoteApp/ShowNotes.xaml.cs" Line="30" Column="19" />
+      <File FileName="NoteApp.Android/MainActivity.cs" Line="1" Column="1" />
       <File FileName="NoteApp/App.xaml.cs" />
+      <File FileName="NoteApp.Android/Toast_Android.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,10 +19,10 @@
             <Node name="NoteApp" expanded="True">
               <Node name="App.xaml" expanded="True" />
               <Node name="EditNote.xaml" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True" />
-              <Node name="ShowNotes.xaml" expanded="True">
-                <Node name="ShowNotes.xaml.cs" selected="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
               </Node>
+              <Node name="ShowNotes.xaml" expanded="True" />
             </Node>
             <Node name="NoteApp.Android" expanded="True" />
           </Node>

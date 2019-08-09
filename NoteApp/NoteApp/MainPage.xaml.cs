@@ -20,7 +20,6 @@ namespace NoteApp
 
         //Function runs when Create note button is clicked. This button creates or saves edited note.
         async void createNote(object sender, EventArgs e)
-
         {
 
             await Navigation.PushAsync(new EditNote
@@ -35,7 +34,6 @@ namespace NoteApp
 
         //Funtion runs everytime delete button is clicked. This button deletes a note
         async void showNote(object sender, EventArgs e)
-
         {
 
             await Navigation.PushAsync(new ShowNotes { });

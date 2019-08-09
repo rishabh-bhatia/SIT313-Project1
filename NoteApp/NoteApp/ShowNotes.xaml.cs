@@ -28,7 +28,7 @@ namespace NoteApp
                 note.Filename = filename;
                 string str = File.ReadAllText(filename);// read the information
                 string[] splitStr = str.Split(' ');//tokenize the data
-                note.noteId = splitStr[0];
+                note.noteId = str;// splitStr[0];
 
                 //generate the allinfo string for listview
 
@@ -53,8 +53,8 @@ namespace NoteApp
 
                 //now split the data to fill out the NoteInfo object
 
-                string[] str = s.noteData.Split(' ');
-                s.noteId = str[0];
+                //string[] str = s.noteData.Split(' ');
+                s.noteId = s.noteData;
 
                 await Navigation.PushAsync(new EditNote
 

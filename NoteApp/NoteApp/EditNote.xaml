@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="NoteApp.EditNote">
+   
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical">
+            <StackLayout Orientation="Vertical">
+
+             <Editor Placeholder=" Enter note " Text= " {Binding noteId} " AutoSize="TextChanges" />
+     
+            
+
+        </StackLayout>
+
+            <Grid VerticalOptions="EndAndExpand">
+
+<Grid.ColumnDefinitions>
+
+<ColumnDefinition Width = "*" />
+<ColumnDefinition Width = "*" />
+
+</Grid.ColumnDefinitions>
+            <Button Text="Save" Clicked="buttonPressed" />
+            <Button Text="Delete" Grid.Column="1" Clicked="onDelete" />
+            </Grid>
+
+        </StackLayout>
+
+    </ContentPage.Content>
+   
+    
+</ContentPage>
